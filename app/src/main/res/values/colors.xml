@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- 연핑크 팔레트 -->
+    <color name="pink_accent">#FFD4537E</color>
+    <color name="pink_dark">#FF993556</color>
+    <color name="pink_text">#FF993556</color>
+    <color name="pink_light">#FFFBEAF0</color>
+    <color name="pink_border">#FFF4C0D1</color>
+
+    <!-- 배경 -->
+    <color name="bg_main">#FFFFF8FA</color>
+
+    <!-- 텍스트 -->
+    <color name="text_dark">#FF2C2C2A</color>
+    <color name="text_gray">#FF888780</color>
+
+</resources>

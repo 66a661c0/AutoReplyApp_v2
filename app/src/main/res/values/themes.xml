@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AutoReply" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/pink_accent</item>
+        <item name="colorPrimaryDark">@color/pink_dark</item>
+        <item name="colorAccent">@color/pink_accent</item>
+        <item name="android:statusBarColor">@color/pink_accent</item>
+        <item name="android:windowBackground">@color/bg_main</item>
+    </style>
+</resources>
